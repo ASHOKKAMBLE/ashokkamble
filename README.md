@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://github.com/ASHOKKAMBLE?tab=repositories">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
@@ -47,7 +47,7 @@ I work across the analytics lifecycle — from understanding a business
 problem and preparing raw data to querying databases, analyzing patterns,
 building dashboards, and communicating insights.
 
-My projects are built around one principle:
+My approach is simple:
 
 > **Don't just show the data. Explain what it means.**
 
@@ -59,11 +59,11 @@ My projects are built around one principle:
 
 ---
 
-# THE STACK
+# CORE STACK
 
 <div align="center">
 
-| ANALYZE | QUERY | VISUALIZE | STORE |
+| 🐍 ANALYZE | 🗄️ QUERY | 📊 VISUALIZE | 🐘 STORE |
 |:---:|:---:|:---:|:---:|
 | Python | SQL | Power BI | PostgreSQL |
 | Pandas | CTEs | DAX | MySQL |
@@ -72,27 +72,28 @@ My projects are built around one principle:
 
 </div>
 
-### Programming
+<br/>
+
+### 🐍 Python
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
-### Databases
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### Business Intelligence
+### 📊 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
-### Development
+### 📈 Visualization
 
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge)
 
 ---
 
@@ -124,7 +125,7 @@ DATA
 
 ---
 
-# SELECTED WORK
+# SELECTED PROJECTS
 
 ## 01 — CUSTOMER 360°
 
@@ -132,7 +133,7 @@ DATA
 
 **Domain:** Sales Analytics · Customer Insights · Revenue Operations
 
-A complete business analytics project focused on understanding
+An end-to-end business analytics project focused on understanding
 customer purchasing behavior and evaluating sales performance.
 
 ### Analysis
@@ -202,8 +203,8 @@ POWER BI
 
 **Domain:** HR Analytics · Workforce Intelligence
 
-An analytics solution designed to understand workforce behavior,
-employee productivity, departmental performance, and attrition patterns.
+An analytics solution focused on understanding workforce patterns,
+employee productivity, departmental performance, and employee attrition.
 
 ### Analysis
 
@@ -213,6 +214,7 @@ employee productivity, departmental performance, and attrition patterns.
 - Employee performance
 - HR KPIs
 - Workforce trends
+- Attrition patterns
 
 ### Technology
 
@@ -238,7 +240,7 @@ orders, product performance, categories, and sales trends.
 | Average Order Value | Customer spending |
 | Product Performance | Product-level insights |
 | Category Performance | Category contribution |
-| Sales Trends | Time-based analysis |
+| Sales Trends | Time-based performance |
 
 ### Technology
 
@@ -246,39 +248,48 @@ orders, product performance, categories, and sales trends.
 
 ---
 
-# CURRENTLY BUILDING
+# REAL-TIME ANALYTICS
 
-## REAL-TIME MARKET INTELLIGENCE
-
-I'm currently exploring how traditional analytics workflows can evolve
-into automated data systems.
-
-### Architecture
+One of my current areas of focus is building automated analytics systems
+that reduce manual data handling.
 
 ```text
-SOURCE
-  ↓
-INGEST
-  ↓
-PROCESS
-  ↓
-VALIDATE
-  ↓
-STORE
-  ↓
-ANALYZE
-  ↓
-VISUALIZE
+┌──────────────────────┐
+│      DATA SOURCE     │
+│      API / CSV       │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    DATA INGESTION    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ PYTHON PROCESSING    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ CLEANING &           │
+│ VALIDATION           │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    POSTGRESQL        │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│    SQL ANALYTICS     │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│   POWER BI / BI      │
+└──────────────────────┘
 ```
-
-### Current Technology
-
-`Python` · `PostgreSQL` · `SQL` · `APIs` · `Power BI`
-
-### Objective
-
-Build analytics workflows that minimize manual data handling and create
-a reliable path from **source data to business insight**.
 
 ---
 
@@ -297,7 +308,7 @@ a reliable path from **source data to business insight**.
 
 ---
 
-# HOW I APPROACH A PROBLEM
+# MY ANALYTICS PROCESS
 
 ### 01 — UNDERSTAND
 
@@ -329,7 +340,36 @@ Explain the insight in a way that supports decision-making.
 
 ---
 
-# CURRENT LEARNING
+# CURRENTLY BUILDING
+
+## ⚡ REAL-TIME MARKET INTELLIGENCE
+
+I'm currently exploring how traditional analytics workflows can evolve
+into automated data systems.
+
+```text
+SOURCE
+  ↓
+INGEST
+  ↓
+PROCESS
+  ↓
+VALIDATE
+  ↓
+STORE
+  ↓
+ANALYZE
+  ↓
+VISUALIZE
+```
+
+### Current Technology
+
+`Python` · `PostgreSQL` · `SQL` · `APIs` · `Power BI`
+
+---
+
+# CURRENTLY LEARNING
 
 ```text
 ADVANCED SQL
@@ -353,19 +393,19 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-**BUILD**
+### BUILD
 
 Real-world analytics projects
 
-**IMPROVE**
+### IMPROVE
 
 Python · SQL · Power BI · DAX
 
-**EXPLORE**
+### EXPLORE
 
 Automation · APIs · Data Engineering
 
-**CREATE**
+### CREATE
 
 Reliable analytics systems
 
@@ -396,7 +436,7 @@ Reliable analytics systems
 
 ---
 
-# GITHUB
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -438,12 +478,16 @@ Reliable analytics systems
 <img src="https://img.shields.io/badge/GITHUB-ASHOKKAMBLE-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+&nbsp;
+
+<a href="https://github.com/ASHOKKAMBLE?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -462,4 +506,4 @@ Reliable analytics systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:312E81,75:111827,100:020617&height=150&section=footer" width="100%"/>
 
-</div>3
+</div>
