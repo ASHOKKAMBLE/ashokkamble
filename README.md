@@ -470,7 +470,7 @@ REAL-TIME DATA PIPELINES
 
 <a href="https://github.com/ASHOKKAMBLE">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="Ashok Kamble GitHub Stats"/>
 
 </a>
 
@@ -478,7 +478,7 @@ REAL-TIME DATA PIPELINES
 
 <a href="https://github.com/ASHOKKAMBLE">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ASHOKKAMBLE&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ASHOKKAMBLE&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ashok Kamble Top Languages"/>
 
 </a>
 
@@ -492,7 +492,7 @@ REAL-TIME DATA PIPELINES
 
 <a href="https://github.com/ASHOKKAMBLE">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE&theme=react-dark&hide_border=true&area=true&custom_title=Ashok%20Kamble%20-%20GitHub%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE" width="95%" alt="Ashok Kamble GitHub Contribution Graph"/>
 
 </a>
 
@@ -504,7 +504,7 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="70%" alt="Ashok Kamble GitHub Streak"/>
 
 </div>
 
