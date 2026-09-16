@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="https://github.com/ASHOKKAMBLE?tab=repositories">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
@@ -38,14 +38,14 @@
 
 ---
 
-# ABOUT
+# ABOUT ME
 
 I'm **Ashok Kamble**, a **B.Sc. Computer Science graduate** focused on
 **Data Analytics and Business Intelligence**.
 
-I work across the analytics lifecycle — from understanding a business
-problem and preparing raw data to querying databases, analyzing patterns,
-building dashboards, and communicating insights.
+I work across the complete analytics lifecycle — from understanding a
+business problem and preparing raw data to querying databases, analyzing
+patterns, building dashboards, and communicating insights.
 
 My approach is simple:
 
@@ -55,7 +55,7 @@ My approach is simple:
 
 **Bachelor of Science — Computer Science**
 
-`2023` · `CGPA 7.90 / 10`
+`Graduated: 2023` · `CGPA: 7.90 / 10`
 
 ---
 
@@ -63,7 +63,7 @@ My approach is simple:
 
 <div align="center">
 
-| 🐍 ANALYZE | 🗄️ QUERY | 📊 VISUALIZE | 🐘 STORE |
+| ANALYZE | QUERY | VISUALIZE | STORE |
 |:---:|:---:|:---:|:---:|
 | Python | SQL | Power BI | PostgreSQL |
 | Pandas | CTEs | DAX | MySQL |
@@ -72,25 +72,23 @@ My approach is simple:
 
 </div>
 
-<br/>
-
-### 🐍 Python
+### Python
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
-### 🗄️ Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### 📊 Business Intelligence
+### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
-### 📈 Visualization
+### Visualization
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge)
@@ -125,7 +123,7 @@ DATA
 
 ---
 
-# SELECTED PROJECTS
+# FEATURED PROJECTS
 
 ## 01 — CUSTOMER 360°
 
@@ -134,7 +132,8 @@ DATA
 **Domain:** Sales Analytics · Customer Insights · Revenue Operations
 
 An end-to-end business analytics project focused on understanding
-customer purchasing behavior and evaluating sales performance.
+customer purchasing behavior and evaluating sales performance across
+regions, products, sales executives, payments, and collections.
 
 ### Analysis
 
@@ -159,8 +158,8 @@ customer purchasing behavior and evaluating sales performance.
 
 **Domain:** Financial Analytics · Market Intelligence · Real-Time Data
 
-An automated analytics architecture designed to move market data from
-external sources into a structured analytical environment.
+An automated analytics platform designed to collect, process, validate,
+store, and analyze financial market data.
 
 ### Pipeline
 
@@ -186,10 +185,17 @@ SQL ANALYTICS
 POWER BI
 ```
 
-### Focus
+### Key Areas
 
-`API Integration` · `Automation` · `Data Quality` · `PostgreSQL`
-· `SQL Analytics` · `Business Intelligence`
+- API-based market data collection
+- Automated ingestion
+- Python processing
+- Data cleaning
+- Data validation
+- PostgreSQL storage
+- SQL analytics
+- Market intelligence
+- Business visualization
 
 ### Technology
 
@@ -287,7 +293,7 @@ that reduce manual data handling.
            │
            ▼
 ┌──────────────────────┐
-│   POWER BI / BI      │
+│    POWER BI / BI     │
 └──────────────────────┘
 ```
 
@@ -367,6 +373,11 @@ VISUALIZE
 
 `Python` · `PostgreSQL` · `SQL` · `APIs` · `Power BI`
 
+### Objective
+
+Build analytics workflows that minimize manual data handling and create
+a reliable path from **source data to business insight**.
+
 ---
 
 # CURRENTLY LEARNING
@@ -391,25 +402,15 @@ REAL-TIME DATA PIPELINES
 
 # 2026 FOCUS
 
-<div align="center">
-
-### BUILD
-
-Real-world analytics projects
-
-### IMPROVE
-
-Python · SQL · Power BI · DAX
-
-### EXPLORE
-
-Automation · APIs · Data Engineering
-
-### CREATE
-
-Reliable analytics systems
-
-</div>
+| Focus | Goal |
+|---|---|
+| Python | Advanced analytics & automation |
+| SQL | Advanced querying & analysis |
+| Power BI | Advanced dashboards & DAX |
+| PostgreSQL | Database & analytics |
+| Data Engineering | Automated data pipelines |
+| Business Analytics | Business-focused insights |
+| Portfolio | Industry-ready projects |
 
 ---
 
@@ -431,8 +432,9 @@ Reliable analytics systems
                     DECISION
 ```
 
-> **The objective of analytics is not more charts.  
-> The objective is better understanding.**
+> **The objective of analytics is not more charts.**
+>
+> **The objective is better understanding.**
 
 ---
 
@@ -446,21 +448,13 @@ Reliable analytics systems
 
 </div>
 
-<br/>
+---
+
+# CONTRIBUTION STREAK
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -486,8 +480,8 @@ Reliable analytics systems
 
 &nbsp;
 
-<a href="https://github.com/ASHOKKAMBLE?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
