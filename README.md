@@ -11,12 +11,16 @@
 <a href="https://github.com/ASHOKKAMBLE">
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
+
 &nbsp;
-<a href="YOUR_NETLIFY_URL">
+
+<a href="https://ashokkamble-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
@@ -38,7 +42,7 @@
 
 ---
 
-# ABOUT ME
+# 👋 ABOUT ME
 
 I'm **Ashok Kamble**, a **B.Sc. Computer Science graduate** focused on
 **Data Analytics and Business Intelligence**.
@@ -49,7 +53,7 @@ patterns, building dashboards, and communicating insights.
 
 > **Don't just show the data. Explain what it means.**
 
-### Education
+### 🎓 Education
 
 **Bachelor of Science — Computer Science**
 
@@ -57,7 +61,7 @@ patterns, building dashboards, and communicating insights.
 
 ---
 
-# CORE STACK
+# 🧠 CORE STACK
 
 <div align="center">
 
@@ -70,30 +74,30 @@ patterns, building dashboards, and communicating insights.
 
 </div>
 
-### Python
+### 🐍 Python
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
-### Databases
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-### Business Intelligence
+### 📊 Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
-### Visualization
+### 📈 Visualization
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0F172A?style=for-the-badge)
 
 ---
 
-# WHAT I WORK ON
+# 🔄 WHAT I WORK ON
 
 ```text
 DATA
@@ -121,7 +125,7 @@ DATA
 
 ---
 
-# FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
 ## 01 — CUSTOMER 360°
 
@@ -133,7 +137,7 @@ An end-to-end business analytics project focused on understanding
 customer purchasing behavior and evaluating sales performance across
 regions, products, sales executives, payments, and collections.
 
-### Analysis
+### 🔍 Analysis
 
 - Customer purchasing behavior
 - Regional sales performance
@@ -144,7 +148,7 @@ regions, products, sales executives, payments, and collections.
 - Profit analysis
 - Business KPIs
 
-### Technology
+### 🛠️ Technology
 
 `Python` `Pandas` `SQL` `Power BI` `DAX` `Excel`
 
@@ -159,7 +163,7 @@ regions, products, sales executives, payments, and collections.
 An automated analytics platform designed to collect, process, validate,
 store, and analyze financial market data.
 
-### Pipeline
+### ⚡ Pipeline
 
 ```text
 LIVE MARKET API
@@ -195,7 +199,7 @@ POWER BI
 - Market intelligence
 - Business visualization
 
-### Technology
+### 🛠️ Technology
 
 `Python` `Pandas` `REST API` `PostgreSQL` `SQL` `Power BI`
 
@@ -210,7 +214,7 @@ POWER BI
 An analytics solution focused on understanding workforce patterns,
 employee productivity, departmental performance, and employee attrition.
 
-### Analysis
+### 🔍 Analysis
 
 - Employee attrition
 - Workforce productivity
@@ -220,7 +224,7 @@ employee productivity, departmental performance, and employee attrition.
 - Workforce trends
 - Attrition patterns
 
-### Technology
+### 🛠️ Technology
 
 `Python` `Pandas` `SQL` `Power BI` `Excel`
 
@@ -235,7 +239,7 @@ employee productivity, departmental performance, and employee attrition.
 A practical sales analytics project focused on understanding revenue,
 orders, product performance, categories, and sales trends.
 
-### Core Metrics
+### 📌 Core Metrics
 
 | Metric | Purpose |
 |---|---|
@@ -246,13 +250,13 @@ orders, product performance, categories, and sales trends.
 | Category Performance | Category contribution |
 | Sales Trends | Time-based performance |
 
-### Technology
+### 🛠️ Technology
 
 `SQL` `Excel` `Power BI`
 
 ---
 
-# REAL-TIME ANALYTICS
+# ⚡ REAL-TIME ANALYTICS
 
 One of my current areas of focus is building automated analytics systems
 that reduce manual data handling.
@@ -297,7 +301,7 @@ that reduce manual data handling.
 
 ---
 
-# ANALYTICS CAPABILITIES
+# 📊 ANALYTICS CAPABILITIES
 
 | AREA | CAPABILITIES |
 |---|---|
@@ -312,7 +316,7 @@ that reduce manual data handling.
 
 ---
 
-# MY ANALYTICS PROCESS
+# 🔎 MY ANALYTICS PROCESS
 
 ### 01 — UNDERSTAND
 
@@ -344,7 +348,7 @@ Explain the insight in a way that supports decision-making.
 
 ---
 
-# CURRENTLY BUILDING
+# 🏗️ CURRENTLY BUILDING
 
 ## ⚡ REAL-TIME MARKET INTELLIGENCE
 
@@ -378,7 +382,7 @@ a reliable path from **source data to business insight**.
 
 ---
 
-# CURRENTLY LEARNING
+# 📚 CURRENTLY LEARNING
 
 ```text
 ADVANCED SQL
@@ -398,7 +402,7 @@ REAL-TIME DATA PIPELINES
 
 ---
 
-# 2026 FOCUS
+# 🎯 2026 FOCUS
 
 | Focus | Goal |
 |---|---|
@@ -412,7 +416,7 @@ REAL-TIME DATA PIPELINES
 
 ---
 
-# THE MINDSET
+# 🧩 THE MINDSET
 
 ```text
                  BUSINESS QUESTION
@@ -440,7 +444,7 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<a href="YOUR_NETLIFY_URL">
+<a href="https://ashokkamble-portfolio.netlify.app/">
 
 <img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
@@ -482,7 +486,7 @@ REAL-TIME DATA PIPELINES
 
 ---
 
-# CONNECT
+# 🤝 CONNECT
 
 <div align="center">
 
@@ -502,7 +506,7 @@ REAL-TIME DATA PIPELINES
 
 &nbsp;
 
-<a href="YOUR_NETLIFY_URL">
+<a href="https://ashokkamble-portfolio.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-OPEN-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
