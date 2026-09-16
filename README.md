@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=850&lines=Turning+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Analytics+%7C+Visualization+%7C+Automation;Building+Real-World+Data+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=850&lines=Turning+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Analytics+%7C+Visualization+%7C+Automation;Building+Real-World+Data+Solutions"/>
 
 <br/><br/>
 
@@ -468,9 +468,33 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
+<a href="https://github.com/ASHOKKAMBLE">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOKKAMBLE&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ASHOKKAMBLE">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ASHOKKAMBLE&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</a>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<a href="https://github.com/ASHOKKAMBLE">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE&theme=react-dark&hide_border=true&area=true&custom_title=Ashok%20Kamble%20-%20GitHub%20Contribution%20Graph" width="95%"/>
+
+</a>
 
 </div>
 
