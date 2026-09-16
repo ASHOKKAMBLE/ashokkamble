@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<a href="YOUR_NETLIFY_URL">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
@@ -46,8 +46,6 @@ I'm **Ashok Kamble**, a **B.Sc. Computer Science graduate** focused on
 I work across the complete analytics lifecycle — from understanding a
 business problem and preparing raw data to querying databases, analyzing
 patterns, building dashboards, and communicating insights.
-
-My approach is simple:
 
 > **Don't just show the data. Explain what it means.**
 
@@ -438,7 +436,31 @@ REAL-TIME DATA PIPELINES
 
 ---
 
-# GITHUB ANALYTICS
+# 🌐 LIVE PORTFOLIO
+
+<div align="center">
+
+<a href="YOUR_NETLIFY_URL">
+
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<br/><br/>
+
+### Explore my
+
+`Projects` · `Skills` · `Analytics Work` · `Portfolio`
+
+<br/>
+
+**My complete portfolio is available on my live website.**
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -450,7 +472,7 @@ REAL-TIME DATA PIPELINES
 
 ---
 
-# CONTRIBUTION STREAK
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -480,8 +502,8 @@ REAL-TIME DATA PIPELINES
 
 &nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="YOUR_NETLIFY_URL">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-OPEN-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
