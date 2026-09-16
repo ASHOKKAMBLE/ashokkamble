@@ -1,482 +1,461 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1E1B4B,100:312E81&height=260&section=header&text=ASHOK%20KAMBLE&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=60&descSize=20" width="100%"/>
+# ASHOK KAMBLE
+
+### Data Analyst · Business Intelligence · Analytics Engineering
+
+**I turn messy data into systems people can understand.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Business+Analytics+%7C+Data+Visualization;Building+Real-World+Analytics+Solutions" />
-
-<br><br>
-
-<a href="https://github.com/ASHOKKAMBLE">
-<img src="https://img.shields.io/badge/GitHub-ASHOKKAMBLE-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ASHOKKAMBLE&label=PROFILE%20VIEWS&color=6366F1&style=flat-square">
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ASHOKKAMBLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
 ---
 
-<div align="center">
+## `01` — WHO I AM
 
-## `DATA • ANALYTICS • INSIGHTS`
+I'm **Ashok Kamble**, a B.Sc. Computer Science graduate working toward
+becoming a strong **Data Analyst / Business Intelligence professional**.
 
-### I build analytics solutions that turn complex data into clear business stories.
+My interest isn't limited to creating charts.
 
-</div>
+I like understanding the complete journey of data:
 
----
+**Where does it come from?  
+Is it reliable?  
+What does it tell us?  
+And how can someone actually use it?**
 
-# 👨‍💻 About
-
-I'm **Ashok Kamble**, a **B.Sc. Computer Science graduate** focused on
-**Data Analytics and Business Intelligence**.
-
-I work across the complete analytics lifecycle — from collecting and
-cleaning raw data to querying databases, developing analytical models,
-building dashboards, and communicating insights.
-
-### 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-Graduated • 2023 • **CGPA: 7.90 / 10**
-
-### 🔎 Current Focus
-
-`Data Analytics` `Business Intelligence` `SQL` `Python` `Power BI` `PostgreSQL`
+That's why most of my projects move beyond basic analysis into
+**data cleaning, validation, SQL, databases, automation and dashboards.**
 
 ---
 
-# ⚡ Analytics Stack
-
-<div align="center">
-
-| 🐍 Python | 🗄️ SQL | 📊 Power BI | 🐘 PostgreSQL |
-|:---:|:---:|:---:|:---:|
-| Pandas | Joins | DAX | Database |
-| NumPy | CTEs | KPIs | SQL |
-| EDA | Window Functions | Data Modeling | Analytics |
-| Automation | Aggregations | Dashboards | Data Storage |
-
-</div>
-
-<br>
-
-### 🐍 Python
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### 📊 Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-
-### 📈 Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
-# 🧠 What I Work With
+## `02` — THE WAY I THINK ABOUT DATA
 
 ```text
-DATA
-│
-├── Data Collection
-├── Data Cleaning
-├── Data Validation
-├── Exploratory Data Analysis
-│
-├── Python
-│   ├── Pandas
-│   ├── NumPy
-│   └── Automation
-│
-├── SQL
-│   ├── Joins
-│   ├── CTEs
-│   ├── Window Functions
-│   └── Aggregations
-│
-├── Business Intelligence
-│   ├── Power BI
-│   ├── DAX
-│   ├── KPIs
-│   └── Data Modeling
-│
-└── Visualization
-    ├── Power BI
-    ├── Matplotlib
-    └── Seaborn
+                 ┌─────────────────┐
+                 │  BUSINESS NEED  │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │      DATA       │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │ CLEAN + VERIFY  │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │ ANALYZE + QUERY │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │   VISUALIZE     │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │    INSIGHT      │
+                 └────────┬────────┘
+                          ↓
+                 ┌─────────────────┐
+                 │ BUSINESS VALUE  │
+                 └─────────────────┘
 ```
 
----
+I don't want my analysis to end with:
 
-# 🚀 Featured Projects
+> "Here is a dashboard."
 
-<div align="center">
+I want it to answer:
 
-### Turning real-world datasets into analytical solutions.
-
-</div>
+> **"So what?"**
 
 ---
 
-## 01 • Customer 360° Sales Performance & BI
+## `03` — MY TOOLBOX
 
-**Sales Analytics · Customer Insights · Revenue Operations**
+### Languages & Analysis
 
-An end-to-end business intelligence project focused on understanding
-customer behavior and evaluating sales performance across regions,
-products, sales executives, payments, and collections.
+`Python` · `SQL`
 
-### What I Analyzed
+### Python Ecosystem
+
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+### Databases
+
+`PostgreSQL` · `MySQL`
+
+### Business Intelligence
+
+`Power BI` · `DAX` · `Excel`
+
+### Development
+
+`Git` · `GitHub` · `VS Code`
+
+---
+
+## `04` — WHAT I CAN BUILD
+
+| Problem | My Approach |
+|---|---|
+| Raw / messy data | Python + Pandas |
+| Data quality issues | Cleaning + Validation |
+| Business questions | SQL Analysis |
+| Large structured datasets | PostgreSQL |
+| KPI reporting | Power BI + DAX |
+| Business dashboards | Data Modeling + Visualization |
+| Repetitive workflows | Python Automation |
+| External live data | API + Data Pipeline |
+
+---
+
+# `05` — PROJECTS
+
+## `01` CUSTOMER 360°
+
+### Sales Performance & Business Intelligence
+
+A business analytics project built around the question:
+
+**"What is actually driving sales performance?"**
+
+The analysis looks at the relationship between:
+
+```text
+CUSTOMERS
+    │
+    ├── Purchasing Behaviour
+    │
+    ├── Products
+    │
+    ├── Regions
+    │
+    ├── Sales Executives
+    │
+    └── Payments
+```
+
+### Analysis Areas
 
 - Customer purchasing behavior
-- Regional revenue performance
+- Regional performance
 - Product performance
 - Sales executive performance
-- Revenue trends
-- Payment & collection patterns
+- Revenue analysis
+- Payment & collection analysis
 - Profit analysis
 - Business KPIs
 
-### Stack
+### Built With
 
 `Python` `Pandas` `SQL` `Power BI` `DAX` `Excel`
 
 ---
 
-## 02 • Live Market Intelligence & Real-Time Trading Analytics
+# `02` LIVE MARKET INTELLIGENCE
 
-**Financial Analytics · Market Intelligence · Real-Time Data**
+### Real-Time Trading Analytics Platform
 
-An automated market analytics platform designed to collect, process,
-validate, store, and analyze financial market data.
+One of my current projects is focused on solving a different problem:
 
-### Architecture
+**How do we move from manually handled market data to an automated
+analytics pipeline?**
+
+The architecture:
 
 ```text
-                 LIVE MARKET API
-                        │
-                        ▼
-                DATA INGESTION
-                        │
-                        ▼
-               PYTHON PROCESSING
-                        │
-                        ▼
-              DATA CLEANING
-                        │
-                        ▼
-             DATA VALIDATION
-                        │
-                        ▼
-              POSTGRESQL
-                        │
-                        ▼
-               SQL ANALYTICS
-                        │
-                        ▼
-              POWER BI DASHBOARD
+       MARKET API
+           │
+           ▼
+    DATA INGESTION
+           │
+           ▼
+    PYTHON PROCESSING
+           │
+           ▼
+    CLEANING + VALIDATION
+           │
+           ▼
+       POSTGRESQL
+           │
+           ▼
+      SQL ANALYSIS
+           │
+           ▼
+      BI DASHBOARD
 ```
 
-### Key Components
+### What I'm Working With
 
-- API-based market data collection
+- API-based data collection
 - Automated ingestion
 - Python processing
 - Data cleaning
 - Data validation
-- PostgreSQL storage
+- PostgreSQL
 - SQL analytics
-- Business intelligence dashboard
+- Market intelligence
+- Business visualization
 
-### Stack
+### Built With
 
 `Python` `Pandas` `REST API` `PostgreSQL` `SQL` `Power BI`
 
 ---
 
-## 03 • Enterprise Workforce Productivity & Employee Attrition Analytics
+# `03` WORKFORCE ANALYTICS
 
-**HR Analytics · Workforce Intelligence**
+### Employee Productivity & Attrition Analytics
 
-An analytics solution focused on understanding workforce patterns,
-employee productivity, departmental performance, and employee attrition.
+An analytics project focused on understanding workforce patterns rather
+than simply displaying employee numbers.
 
-### What I Analyzed
+### Questions Explored
 
-- Employee attrition
-- Workforce productivity
-- Department performance
-- Employee performance
-- HR KPIs
-- Workforce trends
-- Attrition patterns
+- Where is attrition occurring?
+- How does workforce composition change?
+- Which departments require attention?
+- What patterns appear in employee performance?
+- Which KPIs help HR understand workforce behavior?
 
-### Stack
+### Built With
 
 `Python` `Pandas` `SQL` `Power BI` `Excel`
 
 ---
 
-## 04 • Pizza Sales Analytics
+# `04` PIZZA SALES ANALYTICS
 
-**Sales Analytics · Business Intelligence**
+### Sales Performance Dashboard
 
-A sales analytics project focused on revenue, order behavior,
-product performance, category contribution, and sales trends.
+A smaller but practical business intelligence project focused on
+turning transactional sales data into useful KPIs.
 
-### Core KPIs
+### Metrics
 
-| KPI | Purpose |
-|---|---|
-| Total Revenue | Overall sales performance |
-| Total Orders | Order volume |
-| Average Order Value | Customer spending |
-| Product Performance | Product-level analysis |
-| Category Performance | Category contribution |
-| Sales Trends | Time-based performance |
+```text
+Revenue
+Orders
+Average Order Value
+Product Performance
+Category Performance
+Sales Trends
+```
 
-### Stack
+### Built With
 
 `SQL` `Excel` `Power BI`
 
 ---
 
-# ⚡ Real-Time Analytics Architecture
+# `06` — CURRENTLY BUILDING
 
-One of my current areas of focus is building automated analytics systems
-that reduce manual data handling.
+## ⚡ Automated Market Analytics
+
+My current direction is moving toward the intersection of:
 
 ```text
-┌──────────────────────┐
-│      DATA SOURCE     │
-│      API / CSV       │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│    DATA INGESTION    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ PYTHON PROCESSING    │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│ CLEANING &           │
-│ VALIDATION           │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│    POSTGRESQL        │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│    SQL ANALYTICS     │
-└──────────┬───────────┘
-           │
-           ▼
-┌──────────────────────┐
-│   POWER BI / BI      │
-└──────────────────────┘
+DATA ANALYTICS
+      +
+DATABASES
+      +
+AUTOMATION
+      +
+BUSINESS INTELLIGENCE
+```
+
+The goal is to build systems where data doesn't need to be manually
+copied from one place to another.
+
+Instead:
+
+```text
+SOURCE → PROCESS → VALIDATE → STORE → ANALYZE → VISUALIZE
 ```
 
 ---
 
-# 📊 My Analytics Process
+# `07` — MY ANALYTICS WORKFLOW
 
-<div align="center">
+### Step 01 — Understand
 
-### `01` Understand
+Before touching the dataset, understand the business question.
 
-**Business Problem**
+### Step 02 — Collect
 
-↓
+Identify the required data sources.
 
-### `02` Collect
+### Step 03 — Clean
 
-**Relevant Data**
+Handle:
 
-↓
+`Missing Values` · `Duplicates` · `Incorrect Formats` · `Invalid Records`
 
-### `03` Clean
+### Step 04 — Validate
 
-**Quality & Consistency**
+Check whether the data actually makes sense.
 
-↓
+### Step 05 — Analyze
 
-### `04` Analyze
+Use:
 
-**Python + SQL**
+`Python` + `SQL`
 
-↓
+### Step 06 — Model
 
-### `05` Visualize
+Structure the data for reporting and analysis.
 
-**Power BI**
+### Step 07 — Visualize
 
-↓
+Build dashboards around meaningful KPIs.
 
-### `06` Communicate
+### Step 08 — Communicate
 
-**Insights & Business Value**
-
-</div>
+Turn numbers into understandable business insights.
 
 ---
 
-# 📚 Currently Learning
+# `08` — EDUCATION
 
-<div align="center">
+### Bachelor of Science — Computer Science
 
-`ADVANCED SQL`
+**Graduated:** 2023
 
-↓
-
-`POWER BI & DAX`
-
-↓
-
-`PYTHON ANALYTICS`
-
-↓
-
-`DATA ENGINEERING`
-
-↓
-
-`REAL-TIME DATA PIPELINES`
-
-</div>
+**CGPA:** 7.90 / 10
 
 ---
 
-# 🎯 2026 Focus
+# `09` — CURRENT LEARNING
 
-| Focus | Goal |
-|---|---|
-| 🐍 Python | Advanced analytics & automation |
-| 🗄️ SQL | Advanced querying & optimization |
-| 📊 Power BI | Advanced dashboards & DAX |
-| 🐘 PostgreSQL | Analytics & data storage |
-| ⚡ Data Engineering | Build automated pipelines |
-| 📈 Business Analytics | Better business-focused insights |
-| 🚀 Portfolio | Industry-ready projects |
-
----
-
-# 💎 My Approach
-
-> ### **Good analytics is not just about finding numbers.**
-> ### **It's about understanding what those numbers mean for the business.**
+I'm currently strengthening my skills in:
 
 ```text
-RAW DATA
-   ↓
-CLEAN DATA
-   ↓
-ANALYSIS
-   ↓
-INSIGHTS
-   ↓
-BUSINESS VALUE
+Advanced SQL
+      ↓
+Power BI
+      ↓
+DAX
+      ↓
+Python Analytics
+      ↓
+PostgreSQL
+      ↓
+Data Engineering Fundamentals
+      ↓
+Real-Time Data Pipelines
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# `10` — A SMALL VIEW OF MY TECHNICAL THINKING
+
+```python
+data
+    ↓
+clean()
+    ↓
+validate()
+    ↓
+analyze()
+    ↓
+model()
+    ↓
+visualize()
+    ↓
+communicate()
+```
+
+The tools may change.
+
+The thinking shouldn't.
+
+---
+
+# `11` — WHAT I'M TRYING TO BECOME
+
+Not just someone who knows:
+
+`Python`
+
+`SQL`
+
+`Power BI`
+
+But someone who can take:
+
+```text
+A business problem
+       ↓
+Find the right data
+       ↓
+Make the data trustworthy
+       ↓
+Analyze it correctly
+       ↓
+Build something useful
+       ↓
+Explain what it means
+```
+
+---
+
+# `12` — 2026
+
+### Building → Learning → Improving
+
+- Advanced SQL
+- Advanced Power BI & DAX
+- Python analytics & automation
+- PostgreSQL
+- Data pipelines
+- Real-time analytics
+- Business-focused projects
+
+---
+
+# `13` — GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOKKAMBLE&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOKKAMBLE&layout=compact&hide_border=true&theme=tokyonight" height="170">
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="75%">
+<img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# `14` — LET'S CONNECT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE&theme=tokyo-night&hide_border=true&area=true" width="100%">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ASHOKKAMBLE/ASHOKKAMBLE/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-### Have a data problem? Let's turn it into an insight.
+**Data • Analytics • Business Intelligence • Technology**
 
 <br>
 
-<a href="https://github.com/ASHOKKAMBLE">
-<img src="https://img.shields.io/badge/GITHUB-ASHOKKAMBLE-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
+If you're interested in real-world analytics projects,
+data problems, dashboards, or business intelligence:
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASHOKKAMBLE)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
@@ -484,14 +463,10 @@ BUSINESS VALUE
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building. Keep Analyzing.
+### `DATA → INSIGHT → ACTION`
 
 <br>
 
-**DATA → INSIGHTS → DECISIONS**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E1B4B,100:020617&height=140&section=footer" width="100%">
+*Thanks for visiting.*
 
 </div>
