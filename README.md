@@ -468,19 +468,17 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<a href="https://github.com/ASHOKKAMBLE">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.dark.svg" width="100%" alt="GitHub Analytics Overview">
+</picture>
 
-<img src="https://github-stats-extended.vercel.app/api?username=ASHOKKAMBLE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="Ashok Kamble GitHub Stats"/>
+<br/>
 
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ASHOKKAMBLE">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ASHOKKAMBLE&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Ashok Kamble Top Languages"/>
-
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+  <img src="./assets/languages.dark.svg" width="100%" alt="GitHub Languages">
+</picture>
 
 </div>
 
@@ -490,11 +488,11 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<a href="https://github.com/ASHOKKAMBLE">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOKKAMBLE" width="95%" alt="Ashok Kamble GitHub Contribution Graph"/>
-
-</a>
+<img
+  src="https://raw.githubusercontent.com/ASHOKKAMBLE/ashokkamble/output/contributions.svg"
+  width="100%"
+  alt="Ashok Kamble GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -504,7 +502,10 @@ REAL-TIME DATA PIPELINES
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ASHOKKAMBLE&theme=tokyonight&hide_border=true" width="70%" alt="Ashok Kamble GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.dark.svg" width="100%" alt="GitHub Contribution Streak">
+</picture>
 
 </div>
 
